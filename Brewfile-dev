@@ -1,0 +1,5 @@
+brew "git"
+cask "visual-studio-code"
+cask "intellij-idea"
+cask "docker"
+

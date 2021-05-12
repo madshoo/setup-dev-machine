@@ -1,0 +1,9 @@
+brew "openssh"
+cask "firefox"
+cask "signal"
+cask "telegram-desktop"
+cask "macpass"
+cask "alfred"
+cask "karabiner-elements"
+cask "rectangle"
+
