@@ -1,3 +1,3 @@
 # See: https://karabiner-elements.pqrs.org/docs/manual/misc/configuration-file-path/
-rm -R ~/.config
-ln -s ./karabiner-config ~/.config
+rm -Rf ~/.config
+ln -s `pwd`/karabiner-config ~/.config
