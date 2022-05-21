@@ -1,9 +1,12 @@
-brew "openssh"
+
 cask "firefox"
 cask "signal"
 cask "telegram-desktop"
-cask "macpass"
+cask "gimp"
+cask "keepassx"
+cask "drawio"
+cask "libreoffice"
+
 cask "alfred"
 cask "karabiner-elements"
 cask "rectangle"
-

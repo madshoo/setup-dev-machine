@@ -1,6 +1,25 @@
 brew "git"
-brew "node 
+cask "intellij-idea-ce"
 cask "visual-studio-code"
-cask "intellij-idea"
-cask "docker"
 
+cask "powerlevel10k"
+
+brew "openssh"
+cask "docker"			
+cask "postman"
+
+cask "boop"
+
+cask "fork"
+cask "hex-fiend"
+
+brew "awscli"
+brew "helm"
+
+brew "go"
+brew "hugo"
+
+brew "jq"
+brew "postgresql"
+brew "wget"
+brew "sops"
