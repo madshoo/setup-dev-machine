@@ -12,7 +12,15 @@ Do the following tasks manually
 3. Configure gitlab access
 4. Configure github-access
 5. Configure IntelliJ
-6. Insert license-key in alfre
+6. 
+
+## Configure Alfred4
+1. Run Alfred4 (via spotlight)
+1. Insert license-key in alfred
+1. Grant Access for Accessibility, Full Disk Access and Contacts
+2. Disable Shortcut Cmd+Space for Spotlight
+  3. by opening System Preferences/Keyboard/Shortcut and disabling "Show Spotlight search" and "Show Finder search window"
+4. Load Alfred4 setting: Alfred Preferences/Advanced/Set preferences folder
 
 ##  Configure MacOS
 1. Configure shortcuts: 
